@@ -1,5 +1,11 @@
 # 📚 LLM-Based Semantic Book Recommender System
 
+> ⚠️ **Note:**  
+> Please perform **only one search** while testing, as the OpenAI API key linked to this project has **limited credits** available.  
+>  
+> Your cooperation is appreciated. 🙏
+
+
 > **Live Demo**: [🌐 View on Hugging Face Spaces](https://huggingface.co/spaces/haweras/llm_book_recommendor)
 
 A semantic book recommendation system that uses **Large Language Models**, **OpenAI embeddings**, and **LangChain** to deliver personalized book suggestions based on your input description, emotional tone, and category.
@@ -52,7 +58,7 @@ A semantic book recommendation system that uses **Large Language Models**, **Ope
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/MuhammadHaweras/book_recommendor.git
+git clone https://github.com/MuhammadHaweras/Book_Recommendor.git
 cd book_recommendor
 
 pip install -r requirements.txt
