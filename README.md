@@ -1,5 +1,7 @@
 # 📚 LLM-Based Semantic Book Recommender System
 
+A semantic book recommendation system that uses **Large Language Models**, **OpenAI embeddings**, and **LangChain** to deliver personalized book suggestions based on your input description, emotional tone, and category.
+
 > ⚠️ **Note on Deployment**  
 > Due to limited OpenAI API credits, I have **not provided a live Hugging Face demo link** for this project.  
 > 
@@ -8,9 +10,6 @@
 > If you'd like to try it out locally, you're welcome to clone the repo and add your own OpenAI API key.
 > 
 > Your understanding and cooperation are deeply appreciated. 🙏 Just trust me that I have deployed on huggingface spaces 😅
-
-
-A semantic book recommendation system that uses **Large Language Models**, **OpenAI embeddings**, and **LangChain** to deliver personalized book suggestions based on your input description, emotional tone, and category.
 
 ---
 
