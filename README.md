@@ -1,12 +1,14 @@
 # 📚 LLM-Based Semantic Book Recommender System
 
-> ⚠️ **Note:**  
-> Please perform **only one search** while testing, as the OpenAI API key linked to this project has **limited credits** available.  
->  
-> Your cooperation is appreciated. 🙏
+> ⚠️ **Note on Deployment**  
+> Due to limited OpenAI API credits, I have **not provided a live Hugging Face demo link** for this project.  
+> 
+> While the app is fully functional and tested, real-time queries depend on OpenAI's paid API access.  
+> 
+> If you'd like to try it out locally, you're welcome to clone the repo and add your own OpenAI API key.
+> 
+> Your understanding and cooperation are deeply appreciated. 🙏 Just trust me that I have deployed on huggingface spaces 😅
 
-
-> **Live Demo**: [🌐 View on Hugging Face Spaces](https://huggingface.co/spaces/haweras/llm_book_recommendor)
 
 A semantic book recommendation system that uses **Large Language Models**, **OpenAI embeddings**, and **LangChain** to deliver personalized book suggestions based on your input description, emotional tone, and category.
 
@@ -67,10 +69,6 @@ Add OpenAI Key (Create a .env file)
 
 Run the App
 python app.py
-
- Deployment
-This project is live and publicly hosted at:
-🔗 https://huggingface.co/spaces/haweras/llm_book_recommendor
 
 🏷️ Tags
 #LangChain #LLM #BookRecommender #Gradio #OpenAI #ChromaDB #EmotionClassification #HuggingFaceSpaces
